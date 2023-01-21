@@ -1,4 +1,5 @@
-.carousel-control-prev:hover .btn-bike-color {
+.carousel-control-prev:hover .btn-bike-color,
+.carousel-control-next:hover .btn-bike-color {
     background-color: rgba(219, 3, 3, 0.336);
     border-radius: 2px;
 }
